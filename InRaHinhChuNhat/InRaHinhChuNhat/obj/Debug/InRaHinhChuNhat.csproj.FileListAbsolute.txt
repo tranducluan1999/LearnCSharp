@@ -1,0 +1,6 @@
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\bin\Debug\InRaHinhChuNhat.exe.config
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\bin\Debug\InRaHinhChuNhat.exe
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\bin\Debug\InRaHinhChuNhat.pdb
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\obj\Debug\InRaHinhChuNhat.csprojResolveAssemblyReference.cache
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\obj\Debug\InRaHinhChuNhat.exe
+D:\CSharp\InRaHinhChuNhat\InRaHinhChuNhat\obj\Debug\InRaHinhChuNhat.pdb

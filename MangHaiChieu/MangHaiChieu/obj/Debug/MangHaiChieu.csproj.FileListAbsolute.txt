@@ -1,0 +1,6 @@
+D:\CSharp\MangHaiChieu\MangHaiChieu\bin\Debug\MangHaiChieu.exe.config
+D:\CSharp\MangHaiChieu\MangHaiChieu\bin\Debug\MangHaiChieu.exe
+D:\CSharp\MangHaiChieu\MangHaiChieu\bin\Debug\MangHaiChieu.pdb
+D:\CSharp\MangHaiChieu\MangHaiChieu\obj\Debug\MangHaiChieu.csprojResolveAssemblyReference.cache
+D:\CSharp\MangHaiChieu\MangHaiChieu\obj\Debug\MangHaiChieu.exe
+D:\CSharp\MangHaiChieu\MangHaiChieu\obj\Debug\MangHaiChieu.pdb
